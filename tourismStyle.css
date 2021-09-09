@@ -1,0 +1,36 @@
+#centerDiv{
+  border-left: 2px dashed black;
+  border-right: 2px dashed black;
+}
+
+#top{
+  border-bottom: 3px solid #000000
+}
+
+a{text-decoration: cration: none;
+font-family: monospace;
+color: black;
+font-size: 15px;}
+
+#NYC{
+  font-family: NYCfont;
+font-size: 40px;}
+
+  @font-face {
+   font-family: NYCfont;
+   src: url(NYCfont.ttf);}
+
+#titlepara {
+  font-family: monospace;
+  font-size: 26px;
+}
+ img {margin-right:10px;
+      margin-bottom: 10px;
+      margin-left: 20px;
+      margin-top:10px;
+    border: 3px solid;}
+#top {background-color: #fc4e4e;}
+
+h3 {font-family: monospace;
+      font-size: 20px;}
+#side{background-color: #50d975;}
